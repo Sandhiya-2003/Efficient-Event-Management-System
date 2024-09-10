@@ -1,0 +1,70 @@
+body{
+	text-align:center;
+	background-color:rgba(255, 188, 71, 0.3);
+	font-size:200%;
+}
+#p1{
+	color:rgba(165, 73, 46, 1);
+	font-family:Ribeye, cursive;
+}
+#b1{
+	background-color: rgba(66, 0, 71, 0.6);
+	border-radius: 15px 50px 30px; 
+	border: none;
+	color: white;
+	padding: 15px 37px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	font-family:Road Rage, cursive;
+}
+#b2{
+	background-color: rgba(66, 0, 71, 0.6);
+	border-radius: 15px 50px 30px; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	font-family:Road Rage, cursive;
+}
+#b3{
+	background-color: rgba(66, 0, 71, 0.6);
+	border-radius: 15px 50px 30px; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	font-family:Road Rage, cursive;
+}
+table {
+        border-collapse: collapse;
+        text-align: center;
+        font-size: larger;
+        width: 50%;
+        margin: auto;
+}
+td,tr{
+		border: 2px solid white;
+        padding: 10px;
+        font-size: 20px;
+        font-weight: bolder;
+		font-family:Ribeye, cursive;
+		
+}
+th {
+        height: 50px;
+      }
+th{
+        padding: 10px;
+        font-size: 20px;
+        font-weight: bolder;
+		color:rgba(165, 73, 46, 1);
+		font-family:Ribeye, cursive;
+}

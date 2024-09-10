@@ -1,0 +1,73 @@
+@import "compass/css3";
+body 
+{
+	margin:0;
+	padding:0;
+    height: 100vh;
+}
+#particles-js 
+{
+    height: 100%;
+    background:#000000;
+}
+.text{
+	position: absolute;
+	top: 50%;
+	right: 50%;
+	transform: translate(50%,-50%);
+	color: #ffffff;
+	max-width: 90%;
+	padding: 2em 5em;
+	background: #0C0032;
+	text-shadow: 0px 0px 2px #131415;
+	font-family: Orbitron, sans-serif;
+}
+#event_title{
+	font-size: 200%;
+	letter-spacing: 10px;
+	text-shadow: red -4px 0,#0BFFFF 4px 0;
+}
+.landing_button{
+	position: absolute;
+	top: 100%;
+	right: 50%;
+	transform: translate(50%,-50%);
+	color: #ffffff;
+	max-width: 90%;
+	padding: 2em 5em;
+	background: #0C0032;
+	text-shadow: 0px 0px 2px #131415;
+	font-family: Orbitron, sans-serif;
+}
+.prayatna_logo{
+	font-size:100%;
+	position: absolute;
+	top: 30%;
+	right: 75%;
+	transform: translate(50%,-50%);
+	color: #ffffff;
+	max-width: 90%;
+	padding: 2em 5em;
+	background: #202020;
+	height:0;
+	width:10%;
+	padding-bottom:15%;
+	font-family: Orbitron, sans-serif;
+}
+#event_logo{
+	font-size: 200%;
+	letter-spacing: 10px;
+	color:#FCF7F4;
+}
+#event_logo_font{
+font-family: Arizonia, cursive;
+font-size: 150%;
+}
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+  background-color:#190061;
+}
+th, td {
+  background-color: #0C0032;
+}	
